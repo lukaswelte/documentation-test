@@ -1,1 +1,2 @@
-All meetings notes go here [30.05.2016](30.05.2016.md)
+All meetings notes go here 
+[Link to testpage/test.md](../testpage/test.md)
